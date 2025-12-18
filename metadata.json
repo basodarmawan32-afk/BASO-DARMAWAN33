@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulator Umur AI",
+  "description": "Aplikasi kalkulator umur interaktif yang menghitung usia detail Anda dan memberikan fakta sejarah menarik serta kutipan inspiratif menggunakan Google Gemini AI.",
+  "requestFramePermissions": []
+}
